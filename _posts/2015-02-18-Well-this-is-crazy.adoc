@@ -1,6 +1,4 @@
 = Well, this is crazy
 :hp-tags: testing,taaaaags
 
-image::http://github.com/henryoz/henryoz.github.io/images/scream.jpg
-
 So this is a blog hosted and managed entirely on Github? Fuck me, that's cool!
