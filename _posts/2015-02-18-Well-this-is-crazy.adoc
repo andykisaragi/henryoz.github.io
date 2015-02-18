@@ -1,6 +1,6 @@
 = Well, this is crazy
 :hp-tags: testing,taaaaags
 
-:image::http://i.imgur.com/b5x43Es.jpg
+:image::http://i.imgur.com/b5x43Es.jpg[]
 
 So this is a blog hosted and managed entirely on Github? Fuck me, that's cool!
