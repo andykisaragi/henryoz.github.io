@@ -1,0 +1,3 @@
+= Well, this is crazy
+
+So this is a blog hosted and managed entirely on Github? Fuck me, that's cool!
