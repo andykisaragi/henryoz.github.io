@@ -1,4 +1,4 @@
 = Well, this is crazy
 :hp-tags: testing,taaaaags
 
-So this is a blog hosted and managed entirely on Github? Fuck me, that's cool!
+So this is a blog hosted and managed entirely out of a Github repository? Fuck me, that's cool!
